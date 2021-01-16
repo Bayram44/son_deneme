@@ -9,12 +9,8 @@ public class SonClass {
 		System.out.println("Yeni kayit satiri");
 		System.out.println("Github uzerinden satir ekledim");
 		System.out.println("Bayram");
-<<<<<<< HEAD
 		System.out.println("Cakisma-Bayram");
-=======
-		System.out.println("Cakisma-Github");
-		
->>>>>>> refs/remotes/origin/master
+
 
 	}
 
