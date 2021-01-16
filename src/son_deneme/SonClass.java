@@ -9,6 +9,7 @@ public class SonClass {
 		System.out.println("Yeni kayit satiri");
 		System.out.println("Github uzerinden satir ekledim");
 		System.out.println("Bayram");
+		System.out.println("Cakisma-Bayram");
 
 	}
 
